@@ -14,5 +14,6 @@ while (number <= 200){
     //if a multiple of 3 and a multiple of 4
     else { console.log("LoopyLighthouse" + number) }
   }
+  else { console.log(number) }
   number++
 }
