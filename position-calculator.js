@@ -1,4 +1,5 @@
-const moves = ['north', 'north', 'west', 'west', 'north', 'east','north'] 
+//const moves = ['north', 'north', 'west', 'west', 'north', 'east','north'] 
+let moves = ['north','north','west','west','north','east','north']
 
 function finalPosition(moves){
   let positionsArray = [0, 0];
