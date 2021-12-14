@@ -16,7 +16,7 @@ function finalPosition(moves){
       if (move === "north"){
         positionsArray[1]++
       }
-      else {positionsArray--;}
+      else {positionsArray[1]--;}
     }
   })
   return positionsArray
